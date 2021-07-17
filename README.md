@@ -56,4 +56,4 @@ Cick Continue Mapping and then Skip and Publish and you are done. It will take u
 
 ## Search queries
 
-There are a set of [sample queries](Sample queries.csv) based on this data that will return data when searched from Office.com. Other entries will return data but these are known based on the Answers in this sample.
+There are a set of [sample queries](SampleQueries.csv) based on this data that will return data when searched from Office.com. Other entries will return data but these are known based on the Answers in this sample.
